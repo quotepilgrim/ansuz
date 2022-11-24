@@ -1,4 +1,4 @@
-# Ansuz
+# Ansuz Chess
 
 ![preview](res/preview.png)
 
