@@ -2,7 +2,7 @@
 
 ![preview](res/preview.png)
 
-A chess piece set inspired by the popular Chess Alpha set by Eric Bentzen. The name Ansuz refers to the rune in Elder Futhark which corresponds to roughly the same sound as the Greek letter alpha.
+A chess piece set inspired by the popular Chess Alpha font by Eric Bentzen. The name Ansuz refers to the rune in Elder Futhark which corresponds to roughly the same sound as the Greek letter alpha.
 
 ## Files
 
