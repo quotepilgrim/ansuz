@@ -12,6 +12,11 @@ bishops and kings can be found inside `pieces_alt`. The file `Ansuz.svg` in the 
 multi-page Inkscape document containing all the pieces. Inside the `scidvspc` folder there are
 piece sets for Scid vs. PC.
 
+> **Note**: it should be fairly easy to adapt this piece set for use with just about any chess program,
+but finding out how to do it for Scid vs. PC was not very straightforward and I ended up having to
+write [a Python script](https://gist.github.com/quotepilgrim/58d4a9471f5c904c9d27c125c8068f3a) to
+do it, hence files for that program in particular being included in the repository.
+
 ## Userstyles
 
 This piece set can be used on [Lichess](https://lichess.org/) by installing the browser
