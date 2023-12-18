@@ -12,10 +12,10 @@ The pieces of the default set are located in the `pieces` folder, and alternativ
 
 This piece set can be used on [Lichess](https://lichess.org/) by installing the browser extension [Stylus](https://github.com/openstyles/stylus) and clicking one of the following links:
 
-https://raw.githubusercontent.com/quotepilgrim/ansuz/main/res/ansuz-lichess.user.css  
-https://raw.githubusercontent.com/quotepilgrim/ansuz/main/res/ansuz_alt-lichess.user.css
+https://raw.githubusercontent.com/quotepilgrim/ansuz/main/res/userstyles/ansuz-lichess.user.css  
+https://raw.githubusercontent.com/quotepilgrim/ansuz/main/res/userstyles/ansuz_alt-lichess.user.css
 
 To use it on [Chess.com](https://www.chess.com/home) follow one of the links below:
 
-https://raw.githubusercontent.com/quotepilgrim/ansuz/main/res/ansuz-chesscom.user.css  
-https://raw.githubusercontent.com/quotepilgrim/ansuz/main/res/ansuz_alt-chesscom.user.css
+https://raw.githubusercontent.com/quotepilgrim/ansuz/main/res/userstyles/ansuz-chesscom.user.css  
+https://raw.githubusercontent.com/quotepilgrim/ansuz/main/res/userstyles/ansuz_alt-chesscom.user.css
